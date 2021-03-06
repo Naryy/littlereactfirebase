@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React Firebase Todo",
+  "name": "React Firebase Todo Sample",
   "icons": [
     {
       "src": "favicon.ico",
